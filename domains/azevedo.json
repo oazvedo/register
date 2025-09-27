@@ -1,10 +1,10 @@
 {
   "description": "My awesome portfolio",
-  "repo": "https://github.com/andreeviictor1/your-repo",
+  "repo": "https://github.com/azvedo/",
   "owner": {
-    "username": "andreeviictor1"
+    "username": "azvedo"
   },
-  "record": {
-    "CNAME": "andreeviictor1.github.io"
+  "records": {
+    "CNAME": "azvedo.github.io"
   }
 }
